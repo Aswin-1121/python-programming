@@ -1,0 +1,5 @@
+a = int(input("input integer:"))
+A1 = int("%s" % a)
+A2 = int("%s%s" % (a,a))
+A3 = int("%s%s%s" % (a,a,a))
+print ( A1+A2+A3 )
