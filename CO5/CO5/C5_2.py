@@ -1,5 +1,5 @@
 newFile = open("content.txt","w")
-newFile.write("Amjiyad \nSemester 1 \nMCA Department \nTKMCE \nKollam")
+newFile.write("Aswin \nSemester 1 \nMCA Department \nTKMCE \nKollam")
 newFile.close()
 
 readFile = open("content.txt","r")
